@@ -8,8 +8,8 @@ Goal: Create a data ingestor that collates real-time wind power forecasts and gr
 
 Data Sources:
 
-* Day-ahead wind power forecasts from the National Grid - [link](data.nationalgrideso.com/demand/day-ahead-wind-forecast/r/day_ahead_wind_forecast)
-* Real-time carbon intensity from National Grid/Oxford - [link](carbon-intensity.github.io/api-definitions)
+* Day-ahead wind power forecasts from the National Grid - [link](www.http://data.nationalgrideso.com/demand/day-ahead-wind-forecast/r/day_ahead_wind_forecast)
+* Real-time carbon intensity from National Grid/Oxford - [link](www.http://carbon-intensity.github.io/api-definitions)
 
 <br>
 
