@@ -18,3 +18,4 @@ Outputs:
 * Python script for ingesting and collating the data
 * Database of your choice (e.g. Postgres or SQLite) containing raw data tables and a collated time-series table
 * Description of how you would deploy this in production as an MVP (not focusing on scaling, just robustness of this simple pipeline)
+* A forked GitHub repository showing your commits - this can be private but please add access for `AyrtonB` once you have completed the task
